@@ -1,0 +1,16 @@
+.carousel-control-prev,
+.carousel-control-next {
+  display: none;
+}
+
+.carousel-image {
+  height: 400px; /* Adjust the height as needed */
+  object-fit: cover; /* Ensure the image covers the area without distorting the aspect ratio */
+}
+.heading{
+  color: rgb(2, 44, 60);
+}
+.para{
+  color:rgb(1, 45, 62)
+}
+
