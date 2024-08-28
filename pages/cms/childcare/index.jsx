@@ -26,6 +26,7 @@ export default function index() {
 
   return (
     <>
+    {/* <div></div> */}
     <div style={{ backgroundColor:"#0073e6", color:"white",padding:"15px 20px",textAlign:"center",fontSize:"40px",fontWeight:"bolder",fontFamily: "cursive", marginTop: "20px" ,borderRadius:"5px",width:"100%",boxShadow:" 0 2px 5px rgba(0, 0, 0, 0.2)",cursor:"pointer"}}>
       <span>ChildCare Doctors</span>
       </div>
